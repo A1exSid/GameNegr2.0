@@ -1,0 +1,2509 @@
+fileFormatVersion: 2
+guid: 0d5130956c9906d4884cb8aa6640cf08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2468645342282123680
+    second: 8BitOperatorPlus8Regular_Edited3_0
+  - first:
+      213: -671618453690810853
+    second: 8BitOperatorPlus8Regular_Edited3_1
+  - first:
+      213: -6904207880941307540
+    second: 8BitOperatorPlus8Regular_Edited3_2
+  - first:
+      213: -4296671561415660438
+    second: 8BitOperatorPlus8Regular_Edited3_3
+  - first:
+      213: 2650827988679975773
+    second: 8BitOperatorPlus8Regular_Edited3_4
+  - first:
+      213: 8856080294059553336
+    second: 8BitOperatorPlus8Regular_Edited3_5
+  - first:
+      213: -1443325977155141197
+    second: 8BitOperatorPlus8Regular_Edited3_6
+  - first:
+      213: 1973470102615589887
+    second: 8BitOperatorPlus8Regular_Edited3_7
+  - first:
+      213: 6776355019629791989
+    second: 8BitOperatorPlus8Regular_Edited3_8
+  - first:
+      213: -849608267204558248
+    second: 8BitOperatorPlus8Regular_Edited3_9
+  - first:
+      213: -6833097618705798364
+    second: 8BitOperatorPlus8Regular_Edited3_10
+  - first:
+      213: 826888926945813529
+    second: 8BitOperatorPlus8Regular_Edited3_11
+  - first:
+      213: 6791513445389331372
+    second: 8BitOperatorPlus8Regular_Edited3_12
+  - first:
+      213: -6760203548253282535
+    second: 8BitOperatorPlus8Regular_Edited3_13
+  - first:
+      213: 7681481683933775674
+    second: 8BitOperatorPlus8Regular_Edited3_14
+  - first:
+      213: 4961765598602014749
+    second: 8BitOperatorPlus8Regular_Edited3_15
+  - first:
+      213: -2863725826473293165
+    second: 8BitOperatorPlus8Regular_Edited3_16
+  - first:
+      213: 1391239491360761300
+    second: 8BitOperatorPlus8Regular_Edited3_17
+  - first:
+      213: -3338986097004486965
+    second: 8BitOperatorPlus8Regular_Edited3_18
+  - first:
+      213: 4121944666041936672
+    second: 8BitOperatorPlus8Regular_Edited3_19
+  - first:
+      213: 8984893983617784409
+    second: 8BitOperatorPlus8Regular_Edited3_20
+  - first:
+      213: 1093112065854401119
+    second: 8BitOperatorPlus8Regular_Edited3_21
+  - first:
+      213: -5972481555778954771
+    second: 8BitOperatorPlus8Regular_Edited3_22
+  - first:
+      213: -4698229471631056429
+    second: 8BitOperatorPlus8Regular_Edited3_23
+  - first:
+      213: -4169500539098366771
+    second: 8BitOperatorPlus8Regular_Edited3_24
+  - first:
+      213: -4448411880305302776
+    second: 8BitOperatorPlus8Regular_Edited3_25
+  - first:
+      213: 7958268586155946002
+    second: 8BitOperatorPlus8Regular_Edited3_26
+  - first:
+      213: -1031910888730636018
+    second: 8BitOperatorPlus8Regular_Edited3_27
+  - first:
+      213: 6243051915265137236
+    second: 8BitOperatorPlus8Regular_Edited3_28
+  - first:
+      213: -1610021180588391393
+    second: 8BitOperatorPlus8Regular_Edited3_29
+  - first:
+      213: -3175609243755110814
+    second: 8BitOperatorPlus8Regular_Edited3_30
+  - first:
+      213: 6661429178240919630
+    second: 8BitOperatorPlus8Regular_Edited3_31
+  - first:
+      213: 1428652956830304258
+    second: 8BitOperatorPlus8Regular_Edited3_32
+  - first:
+      213: -8982906967389038234
+    second: 8BitOperatorPlus8Regular_Edited3_33
+  - first:
+      213: -6129750092762571482
+    second: 8BitOperatorPlus8Regular_Edited3_34
+  - first:
+      213: 6362795511625383084
+    second: 8BitOperatorPlus8Regular_Edited3_35
+  - first:
+      213: 5294139275516824222
+    second: 8BitOperatorPlus8Regular_Edited3_36
+  - first:
+      213: 4786208619881536045
+    second: 8BitOperatorPlus8Regular_Edited3_37
+  - first:
+      213: -2377158273191416656
+    second: 8BitOperatorPlus8Regular_Edited3_38
+  - first:
+      213: 6653392458337151647
+    second: 8BitOperatorPlus8Regular_Edited3_39
+  - first:
+      213: -575964956886269959
+    second: 8BitOperatorPlus8Regular_Edited3_40
+  - first:
+      213: 8938683106837275090
+    second: 8BitOperatorPlus8Regular_Edited3_41
+  - first:
+      213: -1486979970078700311
+    second: 8BitOperatorPlus8Regular_Edited3_42
+  - first:
+      213: 8555905376314113953
+    second: 8BitOperatorPlus8Regular_Edited3_43
+  - first:
+      213: 3409435041369799383
+    second: 8BitOperatorPlus8Regular_Edited3_44
+  - first:
+      213: -7123572753150624184
+    second: 8BitOperatorPlus8Regular_Edited3_45
+  - first:
+      213: 6448904264726960823
+    second: 8BitOperatorPlus8Regular_Edited3_46
+  - first:
+      213: 6746886089164445555
+    second: 8BitOperatorPlus8Regular_Edited3_47
+  - first:
+      213: 8179129750516817760
+    second: 8BitOperatorPlus8Regular_Edited3_48
+  - first:
+      213: 4361274434334913317
+    second: 8BitOperatorPlus8Regular_Edited3_49
+  - first:
+      213: -2933029156688509846
+    second: 8BitOperatorPlus8Regular_Edited3_50
+  - first:
+      213: 716947818121277640
+    second: 8BitOperatorPlus8Regular_Edited3_51
+  - first:
+      213: 7116261671278769659
+    second: 8BitOperatorPlus8Regular_Edited3_52
+  - first:
+      213: -3607108300046475263
+    second: 8BitOperatorPlus8Regular_Edited3_53
+  - first:
+      213: -8467024772849747822
+    second: 8BitOperatorPlus8Regular_Edited3_54
+  - first:
+      213: 830153376915861299
+    second: 8BitOperatorPlus8Regular_Edited3_55
+  - first:
+      213: -2692759931133763960
+    second: 8BitOperatorPlus8Regular_Edited3_56
+  - first:
+      213: 3658914081405943799
+    second: 8BitOperatorPlus8Regular_Edited3_57
+  - first:
+      213: -7099321075827139138
+    second: 8BitOperatorPlus8Regular_Edited3_58
+  - first:
+      213: 8166778278723476589
+    second: 8BitOperatorPlus8Regular_Edited3_59
+  - first:
+      213: -2452699457212899574
+    second: 8BitOperatorPlus8Regular_Edited3_60
+  - first:
+      213: 2950049491191705941
+    second: 8BitOperatorPlus8Regular_Edited3_61
+  - first:
+      213: 8148711003373580865
+    second: 8BitOperatorPlus8Regular_Edited3_62
+  - first:
+      213: 9086958623573213924
+    second: 8BitOperatorPlus8Regular_Edited3_63
+  - first:
+      213: -2395681211196505328
+    second: 8BitOperatorPlus8Regular_Edited3_64
+  - first:
+      213: 1051823804614054564
+    second: 8BitOperatorPlus8Regular_Edited3_65
+  - first:
+      213: -1046380710060113813
+    second: 8BitOperatorPlus8Regular_Edited3_66
+  - first:
+      213: 7099658589603799679
+    second: 8BitOperatorPlus8Regular_Edited3_67
+  - first:
+      213: 1763439492754336921
+    second: 8BitOperatorPlus8Regular_Edited3_68
+  - first:
+      213: 3875358650821204916
+    second: 8BitOperatorPlus8Regular_Edited3_69
+  - first:
+      213: -6242999470003626712
+    second: 8BitOperatorPlus8Regular_Edited3_70
+  - first:
+      213: 4341991740703302523
+    second: 8BitOperatorPlus8Regular_Edited3_71
+  - first:
+      213: -5227287041803670861
+    second: 8BitOperatorPlus8Regular_Edited3_72
+  - first:
+      213: -2574393787397058759
+    second: 8BitOperatorPlus8Regular_Edited3_73
+  - first:
+      213: -6315328970182712515
+    second: 8BitOperatorPlus8Regular_Edited3_74
+  - first:
+      213: 5417655143642725889
+    second: 8BitOperatorPlus8Regular_Edited3_75
+  - first:
+      213: -215287361891751399
+    second: 8BitOperatorPlus8Regular_Edited3_76
+  - first:
+      213: 3452435763482671344
+    second: 8BitOperatorPlus8Regular_Edited3_77
+  - first:
+      213: 726955731559161969
+    second: 8BitOperatorPlus8Regular_Edited3_78
+  - first:
+      213: -3026502302531415959
+    second: 8BitOperatorPlus8Regular_Edited3_79
+  - first:
+      213: 8593599416480691509
+    second: 8BitOperatorPlus8Regular_Edited3_80
+  - first:
+      213: 8073826045704101208
+    second: 8BitOperatorPlus8Regular_Edited3_81
+  - first:
+      213: 62109239627522885
+    second: 8BitOperatorPlus8Regular_Edited3_82
+  - first:
+      213: 1543516827701365056
+    second: 8BitOperatorPlus8Regular_Edited3_83
+  - first:
+      213: -6930584163506833261
+    second: 8BitOperatorPlus8Regular_Edited3_84
+  - first:
+      213: -5693189951754358176
+    second: 8BitOperatorPlus8Regular_Edited3_85
+  - first:
+      213: -8564340330815998131
+    second: 8BitOperatorPlus8Regular_Edited3_86
+  - first:
+      213: 2406228549449422263
+    second: 8BitOperatorPlus8Regular_Edited3_87
+  - first:
+      213: -6639411019008419670
+    second: 8BitOperatorPlus8Regular_Edited3_88
+  - first:
+      213: -4216979836807371115
+    second: 8BitOperatorPlus8Regular_Edited3_89
+  - first:
+      213: 5247707162952510497
+    second: 8BitOperatorPlus8Regular_Edited3_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 356
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066f9d0042c9dbdd0800000000000000
+      internalID: -2468645342282123680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 364
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e7923239eeda6f0800000000000000
+      internalID: -671618453690810853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 359
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c697a0923835f20a0800000000000000
+      internalID: -6904207880941307540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 357
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ceb49caf72f54c0800000000000000
+      internalID: -4296671561415660438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 357
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53eee1d202a9c420800000000000000
+      internalID: 2650827988679975773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 357
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832b1cd1b1e17ea70800000000000000
+      internalID: 8856080294059553336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 357
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1039cbba648fbe0800000000000000
+      internalID: -1443325977155141197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 359
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff381493a9c236b10800000000000000
+      internalID: 1973470102615589887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 361
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa08f8dcf27a0e50800000000000000
+      internalID: 6776355019629791989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 370
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852890b48c59534f0800000000000000
+      internalID: -849608267204558248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 359
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b29794be5fb21a0800000000000000
+      internalID: -6833097618705798364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 355
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9142f471913b97b00800000000000000
+      internalID: 826888926945813529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 311
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab68bfde7d404e50800000000000000
+      internalID: 6791513445389331372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 314
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f1701a0beee22a0800000000000000
+      internalID: -6760203548253282535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 314
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37ca8fa4ea1a9a60800000000000000
+      internalID: 7681481683933775674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 314
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d103d6bf58bbbd440800000000000000
+      internalID: 4961765598602014749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 314
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a82f298800248d0800000000000000
+      internalID: -2863725826473293165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 314
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5ad0042fcae4310800000000000000
+      internalID: 1391239491360761300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 320
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce5412e5d989a1d0800000000000000
+      internalID: -3338986097004486965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 322
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bee33b5d6143930800000000000000
+      internalID: 4121944666041936672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 326
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a151e5971c0bc70800000000000000
+      internalID: 8984893983617784409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_21
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 324
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ae1f0e1a38b2f00800000000000000
+      internalID: 1093112065854401119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 271
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de919382bab7d1da0800000000000000
+      internalID: -5972481555778954771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 271
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1e82610398cceb0800000000000000
+      internalID: -4698229471631056429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 271
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccfd34c955f226c0800000000000000
+      internalID: -4169500539098366771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 271
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80366cba6f01442c0800000000000000
+      internalID: -4448411880305302776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 271
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210b9f84d13717e60800000000000000
+      internalID: 7958268586155946002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 281
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e015a55938aeda1f0800000000000000
+      internalID: -1031910888730636018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 283
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a53bbc3a6c3a650800000000000000
+      internalID: 6243051915265137236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 283
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f148c2a344e08a9e0800000000000000
+      internalID: -1610021180588391393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_30
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 289
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e9788c738fde3d0800000000000000
+      internalID: -3175609243755110814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 268
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48e8793b86227c50800000000000000
+      internalID: 6661429178240919630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 228
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2088e2f7b4893d310800000000000000
+      internalID: 1428652956830304258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 228
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6691566e4bd465380800000000000000
+      internalID: -8982906967389038234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 228
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d18f674c0ceeaa0800000000000000
+      internalID: -6129750092762571482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_35
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 228
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac71e86ec03d4850800000000000000
+      internalID: 6362795511625383084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 228
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9acf9c1f9f887940800000000000000
+      internalID: 5294139275516824222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 242
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a93f0a1670c6240800000000000000
+      internalID: 4786208619881536045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 248
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc6b8f2523a20fd0800000000000000
+      internalID: -2377158273191416656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 240
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ae27e8039955c50800000000000000
+      internalID: 6653392458337151647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_40
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 204
+        width: 6
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff78bd5ce2c108f0800000000000000
+      internalID: -575964956886269959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 229
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d122de2de49c0c70800000000000000
+      internalID: 8938683106837275090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_42
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 203
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec8657789f2d5be0800000000000000
+      internalID: -1486979970078700311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_43
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 213
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afbe0fcb9eacb670800000000000000
+      internalID: 8555905376314113953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 197
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dabd9d2b1fb05f20800000000000000
+      internalID: 3409435041369799383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 190
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e3ec4c25cf32d90800000000000000
+      internalID: -7123572753150624184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 185
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba5d81d24c1f7950800000000000000
+      internalID: 6448904264726960823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 185
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377dbacc621c1ad50800000000000000
+      internalID: 6746886089164445555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_48
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 185
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f52675c2b128170800000000000000
+      internalID: 8179129750516817760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 185
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5237682bdfb568c30800000000000000
+      internalID: 4361274434334913317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 185
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64c7b79589cb47d0800000000000000
+      internalID: -2933029156688509846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_51
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 178
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c03c95fd3c13f900800000000000000
+      internalID: 716947818121277640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 164
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf57c45594a02c260800000000000000
+      internalID: 7116261671278769659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_53
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 154
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100ed55cc1af0fdc0800000000000000
+      internalID: -3607108300046475263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298bbdd44d51f7a80800000000000000
+      internalID: -8467024772849747822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_55
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 134
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f2924191c458b00800000000000000
+      internalID: 830153376915861299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 151
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88edd570c1561aad0800000000000000
+      internalID: -2692759931133763960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 142
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff30e5a8f217c230800000000000000
+      internalID: 3658914081405943799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 142
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd11e868152a7d90800000000000000
+      internalID: -7099321075827139138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_59
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 142
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c50b63399365170800000000000000
+      internalID: 8166778278723476589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_60
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 142
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f1800b6d246fdd0800000000000000
+      internalID: -2452699457212899574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 142
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551bd48d16ea0f820800000000000000
+      internalID: 2950049491191705941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_62
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 133
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142366ddb79061170800000000000000
+      internalID: 8148711003373580865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 106
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e201ce29bc5b1e70800000000000000
+      internalID: 9086958623573213924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_64
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 125
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0130e8b91a4d0ced0800000000000000
+      internalID: -2395681211196505328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 111
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a212507d24d89e00800000000000000
+      internalID: 1051823804614054564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 99
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60cb05c9428a71f0800000000000000
+      internalID: -1046380710060113813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_67
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 99
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72a2e32fdd078260800000000000000
+      internalID: 7099658589603799679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_68
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 99
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c648420eef87810800000000000000
+      internalID: 1763439492754336921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_69
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 99
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb5f6f092a08c530800000000000000
+      internalID: 3875358650821204916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_70
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 101
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d5b711f096c59a0800000000000000
+      internalID: -6242999470003626712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_71
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 86
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73ec4abb7ad14c30800000000000000
+      internalID: 4341991740703302523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_72
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 90
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba2a4e7122f477b0800000000000000
+      internalID: -5227287041803670861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_73
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fc9367d7ae54cd0800000000000000
+      internalID: -2574393787397058759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_74
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33a68cf2c17b58a0800000000000000
+      internalID: -6315328970182712515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_75
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e746036a06f2b40800000000000000
+      internalID: 5417655143642725889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_76
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aafc5f845230df0800000000000000
+      internalID: -215287361891751399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_77
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 56
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f83d3cf80489ef20800000000000000
+      internalID: 3452435763482671344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_78
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 60
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170a403e26aa61a00800000000000000
+      internalID: 726955731559161969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_79
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 68
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96096b1e034bff5d0800000000000000
+      internalID: -3026502302531415959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_80
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 47
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535f5517329924770800000000000000
+      internalID: 8593599416480691509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_81
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 47
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d5d78f20efb0070800000000000000
+      internalID: 8073826045704101208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_82
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543a44d3608acd000800000000000000
+      internalID: 62109239627522885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_83
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 13
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0494afb706cab6510800000000000000
+      internalID: 1543516827701365056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 13
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3983a305c6e91df90800000000000000
+      internalID: -6930584163506833261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 13
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062bbd617e9bdf0b0800000000000000
+      internalID: -5693189951754358176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_86
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 13
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47392e48d9552980800000000000000
+      internalID: -8564340330815998131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_87
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 19
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b51652fd14a46120800000000000000
+      internalID: 2406228549449422263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_88
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 25
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85036fad21cd3a0800000000000000
+      internalID: -6639411019008419670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_89
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596ac125e274a75c0800000000000000
+      internalID: -4216979836807371115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8BitOperatorPlus8Regular_Edited3_90
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 17
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cae057cd993d840800000000000000
+      internalID: 5247707162952510497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      8BitOperatorPlus8Regular_Edited3_0: -2468645342282123680
+      8BitOperatorPlus8Regular_Edited3_1: -671618453690810853
+      8BitOperatorPlus8Regular_Edited3_10: -6833097618705798364
+      8BitOperatorPlus8Regular_Edited3_11: 826888926945813529
+      8BitOperatorPlus8Regular_Edited3_12: 6791513445389331372
+      8BitOperatorPlus8Regular_Edited3_13: -6760203548253282535
+      8BitOperatorPlus8Regular_Edited3_14: 7681481683933775674
+      8BitOperatorPlus8Regular_Edited3_15: 4961765598602014749
+      8BitOperatorPlus8Regular_Edited3_16: -2863725826473293165
+      8BitOperatorPlus8Regular_Edited3_17: 1391239491360761300
+      8BitOperatorPlus8Regular_Edited3_18: -3338986097004486965
+      8BitOperatorPlus8Regular_Edited3_19: 4121944666041936672
+      8BitOperatorPlus8Regular_Edited3_2: -6904207880941307540
+      8BitOperatorPlus8Regular_Edited3_20: 8984893983617784409
+      8BitOperatorPlus8Regular_Edited3_21: 1093112065854401119
+      8BitOperatorPlus8Regular_Edited3_22: -5972481555778954771
+      8BitOperatorPlus8Regular_Edited3_23: -4698229471631056429
+      8BitOperatorPlus8Regular_Edited3_24: -4169500539098366771
+      8BitOperatorPlus8Regular_Edited3_25: -4448411880305302776
+      8BitOperatorPlus8Regular_Edited3_26: 7958268586155946002
+      8BitOperatorPlus8Regular_Edited3_27: -1031910888730636018
+      8BitOperatorPlus8Regular_Edited3_28: 6243051915265137236
+      8BitOperatorPlus8Regular_Edited3_29: -1610021180588391393
+      8BitOperatorPlus8Regular_Edited3_3: -4296671561415660438
+      8BitOperatorPlus8Regular_Edited3_30: -3175609243755110814
+      8BitOperatorPlus8Regular_Edited3_31: 6661429178240919630
+      8BitOperatorPlus8Regular_Edited3_32: 1428652956830304258
+      8BitOperatorPlus8Regular_Edited3_33: -8982906967389038234
+      8BitOperatorPlus8Regular_Edited3_34: -6129750092762571482
+      8BitOperatorPlus8Regular_Edited3_35: 6362795511625383084
+      8BitOperatorPlus8Regular_Edited3_36: 5294139275516824222
+      8BitOperatorPlus8Regular_Edited3_37: 4786208619881536045
+      8BitOperatorPlus8Regular_Edited3_38: -2377158273191416656
+      8BitOperatorPlus8Regular_Edited3_39: 6653392458337151647
+      8BitOperatorPlus8Regular_Edited3_4: 2650827988679975773
+      8BitOperatorPlus8Regular_Edited3_40: -575964956886269959
+      8BitOperatorPlus8Regular_Edited3_41: 8938683106837275090
+      8BitOperatorPlus8Regular_Edited3_42: -1486979970078700311
+      8BitOperatorPlus8Regular_Edited3_43: 8555905376314113953
+      8BitOperatorPlus8Regular_Edited3_44: 3409435041369799383
+      8BitOperatorPlus8Regular_Edited3_45: -7123572753150624184
+      8BitOperatorPlus8Regular_Edited3_46: 6448904264726960823
+      8BitOperatorPlus8Regular_Edited3_47: 6746886089164445555
+      8BitOperatorPlus8Regular_Edited3_48: 8179129750516817760
+      8BitOperatorPlus8Regular_Edited3_49: 4361274434334913317
+      8BitOperatorPlus8Regular_Edited3_5: 8856080294059553336
+      8BitOperatorPlus8Regular_Edited3_50: -2933029156688509846
+      8BitOperatorPlus8Regular_Edited3_51: 716947818121277640
+      8BitOperatorPlus8Regular_Edited3_52: 7116261671278769659
+      8BitOperatorPlus8Regular_Edited3_53: -3607108300046475263
+      8BitOperatorPlus8Regular_Edited3_54: -8467024772849747822
+      8BitOperatorPlus8Regular_Edited3_55: 830153376915861299
+      8BitOperatorPlus8Regular_Edited3_56: -2692759931133763960
+      8BitOperatorPlus8Regular_Edited3_57: 3658914081405943799
+      8BitOperatorPlus8Regular_Edited3_58: -7099321075827139138
+      8BitOperatorPlus8Regular_Edited3_59: 8166778278723476589
+      8BitOperatorPlus8Regular_Edited3_6: -1443325977155141197
+      8BitOperatorPlus8Regular_Edited3_60: -2452699457212899574
+      8BitOperatorPlus8Regular_Edited3_61: 2950049491191705941
+      8BitOperatorPlus8Regular_Edited3_62: 8148711003373580865
+      8BitOperatorPlus8Regular_Edited3_63: 9086958623573213924
+      8BitOperatorPlus8Regular_Edited3_64: -2395681211196505328
+      8BitOperatorPlus8Regular_Edited3_65: 1051823804614054564
+      8BitOperatorPlus8Regular_Edited3_66: -1046380710060113813
+      8BitOperatorPlus8Regular_Edited3_67: 7099658589603799679
+      8BitOperatorPlus8Regular_Edited3_68: 1763439492754336921
+      8BitOperatorPlus8Regular_Edited3_69: 3875358650821204916
+      8BitOperatorPlus8Regular_Edited3_7: 1973470102615589887
+      8BitOperatorPlus8Regular_Edited3_70: -6242999470003626712
+      8BitOperatorPlus8Regular_Edited3_71: 4341991740703302523
+      8BitOperatorPlus8Regular_Edited3_72: -5227287041803670861
+      8BitOperatorPlus8Regular_Edited3_73: -2574393787397058759
+      8BitOperatorPlus8Regular_Edited3_74: -6315328970182712515
+      8BitOperatorPlus8Regular_Edited3_75: 5417655143642725889
+      8BitOperatorPlus8Regular_Edited3_76: -215287361891751399
+      8BitOperatorPlus8Regular_Edited3_77: 3452435763482671344
+      8BitOperatorPlus8Regular_Edited3_78: 726955731559161969
+      8BitOperatorPlus8Regular_Edited3_79: -3026502302531415959
+      8BitOperatorPlus8Regular_Edited3_8: 6776355019629791989
+      8BitOperatorPlus8Regular_Edited3_80: 8593599416480691509
+      8BitOperatorPlus8Regular_Edited3_81: 8073826045704101208
+      8BitOperatorPlus8Regular_Edited3_82: 62109239627522885
+      8BitOperatorPlus8Regular_Edited3_83: 1543516827701365056
+      8BitOperatorPlus8Regular_Edited3_84: -6930584163506833261
+      8BitOperatorPlus8Regular_Edited3_85: -5693189951754358176
+      8BitOperatorPlus8Regular_Edited3_86: -8564340330815998131
+      8BitOperatorPlus8Regular_Edited3_87: 2406228549449422263
+      8BitOperatorPlus8Regular_Edited3_88: -6639411019008419670
+      8BitOperatorPlus8Regular_Edited3_89: -4216979836807371115
+      8BitOperatorPlus8Regular_Edited3_9: -849608267204558248
+      8BitOperatorPlus8Regular_Edited3_90: 5247707162952510497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
