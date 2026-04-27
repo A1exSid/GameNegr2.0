@@ -6,14 +6,14 @@ using UnityEngine.UI;
 public class Helthbar : MonoBehaviour
 {
 
-    Image healthBar;
+    [SerializeField] Image healthBar;
     [SerializeField] float maxHealth = 100f;
     [SerializeField] float HP; 
      [SerializeField]GameObject panel; 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        healthBar = GetComponent<Image>();
+        
          HP = maxHealth;
     }
 
@@ -24,8 +24,9 @@ public class Helthbar : MonoBehaviour
         {
             HP = 0;
             panel.SetActive(true);
+             Time.timeScale = 0;
         }
-        print("Negr2");
+       
     }
 
     // Update is called once per frame

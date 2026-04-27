@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    [SerializeField] private float damage = 25f;  
+    [SerializeField] private float damage = 5f;  
     [SerializeField] private float destroyDelay = 0.1f;
 
     private void OnCollisionEnter2D(Collision2D collision)
