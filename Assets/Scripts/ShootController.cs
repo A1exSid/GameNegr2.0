@@ -1,10 +1,11 @@
-using UnityEngine;
+ using UnityEngine;
 
 public class ShootController : MonoBehaviour
 {
     [SerializeField] GameObject prefabBullet;
     [SerializeField] Transform firePoint;
     [SerializeField] float speedBullet = 10f;
+     bool canShoot = true;
 
 
     
@@ -17,10 +18,17 @@ public class ShootController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       if(Input.GetMouseButtonDown(0))
+       if(Input.GetMouseButtonDown(0) && canShoot == true)
         {
             Shoot();
+            canShoot = false;
+            Invoke("ActiveShoot", 0.5f);
+
         }
+    }
+    void ActiveShoot()
+    {
+        canShoot = true;
     }
 
     void Shoot()
@@ -34,5 +42,6 @@ public class ShootController : MonoBehaviour
         rb.linearVelocity = direction * speedBullet;
 
         Destroy (bullet, 5f);
+        
     }
 }
