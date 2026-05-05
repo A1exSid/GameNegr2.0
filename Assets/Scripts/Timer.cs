@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
-    [SerializeField] int timeRemaining = 60;
+    [SerializeField] int timeRemaining;
     [SerializeField] Text timerText;
     [SerializeField]GameObject panel; 
     // Start is called once before the first execution of Update after the MonoBehaviour is created

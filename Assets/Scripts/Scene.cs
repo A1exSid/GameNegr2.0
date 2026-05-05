@@ -4,9 +4,9 @@ using UnityEngine.SceneManagement;
 public class Scene : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-      public void StartGame()
+      public void StartGame(string sceneName)
     {
         Time.timeScale = 1;
-        SceneManager.LoadScene("Game");
+         SceneManager.LoadScene(sceneName);
     }
 }

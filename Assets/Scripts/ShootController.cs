@@ -6,6 +6,7 @@ public class ShootController : MonoBehaviour
     [SerializeField] Transform firePoint;
     [SerializeField] float speedBullet = 10f;
      bool canShoot = true;
+     [SerializeField] float timeShoot;
 
 
     
@@ -22,7 +23,7 @@ public class ShootController : MonoBehaviour
         {
             Shoot();
             canShoot = false;
-            Invoke("ActiveShoot", 0.5f);
+            Invoke("ActiveShoot", timeShoot);
 
         }
     }
