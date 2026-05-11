@@ -2,23 +2,41 @@ using UnityEngine;
 
 public class BulletController : MonoBehaviour
 {
-    private void OnTriggerEnter2D(Collider2D collision)
+    public float speed = 7f;
+    [SerializeField] private float damage = 5f;
+    [SerializeField] private float destroyDelay = 0.1f;
+    private Transform enemy;
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (collision.CompareTag("Enemy"))
+        if (other.CompareTag("Enemy"))
         {
-            Destroy(collision.gameObject);
+            Helthbar player = other.gameObject.GetComponent<Helthbar>();
+        
+            if(player!= null)
+            {
+                 player.TakeDamage(damage);
+            }
+            
             Destroy(gameObject);
+           
         }
     }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+     void Start()
     {
-        
+        enemy = GameObject.FindGameObjectWithTag("Player").transform;
+       Destroy(gameObject, 3f);
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        if (enemy != null)
+        {
+            transform.position = Vector2.MoveTowards(
+                transform.position,
+                enemy.position,
+                speed * Time.deltaTime
+            );
+             
+        }
     }
 }
