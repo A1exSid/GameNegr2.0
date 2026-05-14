@@ -14,11 +14,18 @@ public class EnemyFollowAndShoot : MonoBehaviour
 
     private float shootTimer;
 
+    void Start()
+    {
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+    }
+
     void Update()
     {
         float distance = Vector2.Distance(transform.position, player.position);
+        
+    
 
-        // Если игрок далеко — идём к нему
+        // Если игрок далеко  идём к нему
         if (distance > stopDistance)
         {
             transform.position = Vector2.MoveTowards(
@@ -27,7 +34,7 @@ public class EnemyFollowAndShoot : MonoBehaviour
                 speed * Time.deltaTime
             );
         }
-        // Если близко — стоим и стреляем
+        // Если близко  стоим и стреляем
         else
         {
             shootTimer -= Time.deltaTime;

@@ -23,7 +23,6 @@ public class Helthbar : MonoBehaviour
         if (HP <= 0)
         {
             HP = 0;
-             Destroy(gameObject);
             panel.SetActive(true);
              Time.timeScale = 0;
            
