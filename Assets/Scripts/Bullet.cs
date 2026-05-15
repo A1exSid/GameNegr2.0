@@ -7,14 +7,19 @@ public class Bullet : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        print("Negr");
-        Helthbar player = collision.gameObject.GetComponent<Helthbar>();
-        
-        if(player!= null)
+        if(collision.gameObject.CompareTag("Player"))
         {
-            player.TakeDamage(damage);
-            Destroy(gameObject, destroyDelay);
+             Helthbar player = collision.gameObject.GetComponent<Helthbar>();
+            if(player!= null)
+            {
+                player.TakeDamage(damage);
+            }
+           
         }
+        
+        
+        
+        
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

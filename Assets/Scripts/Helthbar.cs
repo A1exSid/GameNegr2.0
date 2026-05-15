@@ -23,8 +23,15 @@ public class Helthbar : MonoBehaviour
         if (HP <= 0)
         {
             HP = 0;
-            panel.SetActive(true);
-             Time.timeScale = 0;
+            if(gameObject.tag == "Player")
+            {
+                panel.SetActive(true);
+            Time.timeScale = 0;
+            }
+            else{
+                Destroy(gameObject);
+            }
+            
            
         }
        
